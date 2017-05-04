@@ -1,1 +1,1 @@
-alert("two")
+alert("one")
